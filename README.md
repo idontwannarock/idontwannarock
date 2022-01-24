@@ -62,7 +62,7 @@
 
 ---
 
-![idontwannarock's GitHub stats](https://github-readme-stats-idontwannarock.vercel.app/api?username=idontwannarock&show_icons=true&hide_border=true)
+![idontwannarock's GitHub stats](https://github-readme-stats-idontwannarock.vercel.app/api?username=idontwannarock&show_icons=true&hide_border=true&theme=radical)
 
 ---
 
