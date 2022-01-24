@@ -48,20 +48,6 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [20211005 tennis kata in Java #13](https://www.youtube.com/watch?v=E7xXLY1xPr8)
-- [20211005 tennis kata in Java #12](https://www.youtube.com/watch?v=YTSzTV3WV80)
-- [20211001 tennis kata in Java #11](https://www.youtube.com/watch?v=coBgZ0sF2tg)
-- [20210930 tennis kata in Java #10](https://www.youtube.com/watch?v=JidBE9dW68c)
-- [20210929 tennis kata in Java #9](https://www.youtube.com/watch?v=OnUkzW3Rjlo)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...][youtube]
-
----
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -73,6 +59,20 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
+
+---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [20211005 tennis kata in Java #13](https://www.youtube.com/watch?v=E7xXLY1xPr8)
+- [20211005 tennis kata in Java #12](https://www.youtube.com/watch?v=YTSzTV3WV80)
+- [20211001 tennis kata in Java #11](https://www.youtube.com/watch?v=coBgZ0sF2tg)
+- [20210930 tennis kata in Java #10](https://www.youtube.com/watch?v=JidBE9dW68c)
+- [20210929 tennis kata in Java #9](https://www.youtube.com/watch?v=OnUkzW3Rjlo)
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...][youtube]
 
 [website]: https://idontwannarock.github.io/tech_blog/
 [twitter]: https://twitter.com/CH_Howard_Wang
