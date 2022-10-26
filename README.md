@@ -67,11 +67,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Optional 為何不推薦做為類別屬性](https://idontwannarock.github.io/tech_blog/2022/10/java_optional_not_recommand_as_field/)
 - [ProtoBuf FlatBuf Benchmark in Java](https://idontwannarock.github.io/tech_blog/2022/01/protobuf_flatbuf_java/)
 - [gRPC 概念](https://idontwannarock.github.io/tech_blog/2021/12/grpc/)
 - [HTTP/2 系列 - HTTP Server Push 技術](https://idontwannarock.github.io/tech_blog/2021/12/http_server_push/)
 - [HTTP/2 系列 - HTTP/2 概念](https://idontwannarock.github.io/tech_blog/2021/12/http2/)
-- [在 Batch Script 壓縮檔案](https://idontwannarock.github.io/tech_blog/2021/12/zip_in_batch_script/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
