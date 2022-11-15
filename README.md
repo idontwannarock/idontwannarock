@@ -67,11 +67,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Quartz 介紹](https://idontwannarock.github.io/tech_blog/2022/11/quartz-intro/)
 - [Spring Boot 後端實作 XSS 防範](https://idontwannarock.github.io/tech_blog/2022/11/xss_prevention_spring_boot/)
 - [XSS 防範簡介](https://idontwannarock.github.io/tech_blog/2022/11/xss_prevention_intro/)
 - [Java Optional 為何不推薦做為類別屬性](https://idontwannarock.github.io/tech_blog/2022/10/java_optional_not_recommand_as_field/)
 - [ProtoBuf FlatBuf Benchmark in Java](https://idontwannarock.github.io/tech_blog/2022/01/protobuf_flatbuf_java/)
-- [gRPC 概念](https://idontwannarock.github.io/tech_blog/2021/12/grpc/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
