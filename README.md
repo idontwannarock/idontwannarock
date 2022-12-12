@@ -67,11 +67,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SpringFox to SpringDoc](https://blog.idontwannarock.me/2022/12/springfox_to_springdoc/)
 - [Quartz Misfire Handling Instruction](https://blog.idontwannarock.me/2022/11/quartz-misfire-handling-instruction/)
 - [Spring Boot 整合 Quartz 集群執行預設及動態排程](https://blog.idontwannarock.me/2022/11/quartz-cluster-fixed-and-dynamic-trigger-spring-boot-integration/)
 - [Quartz 介紹](https://blog.idontwannarock.me/2022/11/quartz-intro/)
 - [Spring Boot 後端實作 XSS 防範](https://blog.idontwannarock.me/2022/11/xss_prevention_spring_boot/)
-- [XSS 防範簡介](https://blog.idontwannarock.me/2022/11/xss_prevention_intro/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
