@@ -5,7 +5,7 @@
 ---
 
 - 🌱 I’m currently learning everything
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects and try to complete Waterball Design Pattern curriculum.
 
 ---
 
@@ -94,7 +94,7 @@
 
 ➡️ [more videos...][youtube]
 
-[website]: https://idontwannarock.github.io/tech_blog/
+[website]: https://blog.idontwannarock.me/
 [twitter]: https://twitter.com/CH_Howard_Wang
 [youtube]: https://www.youtube.com/idontwannarock
 [instagram]: https://www.instagram.com/idontwannarock/
