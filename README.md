@@ -67,11 +67,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spring JPA Projection with Converter](https://blog.idontwannarock.me/2023/09/spring_jpa_projection_converter/)
 - [Scoop 介紹及用法](https://blog.idontwannarock.me/2023/06/scoop/)
 - [Gradle + Docker Multi-stage build](https://blog.idontwannarock.me/2022/12/gradle_docker_multi_stage_build/)
 - [Maven + Docker Multi-stage Build](https://blog.idontwannarock.me/2022/12/maven_docker_multi_stage_build/)
 - [SpringFox to SpringDoc](https://blog.idontwannarock.me/2022/12/springfox_to_springdoc/)
-- [Quartz Misfire Handling Instruction](https://blog.idontwannarock.me/2022/11/quartz-misfire-handling-instruction/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
