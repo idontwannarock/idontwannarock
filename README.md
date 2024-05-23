@@ -67,11 +67,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [.gitattributes 引發的慘案](https://blog.idontwannarock.me/2024/05/gitattributes_glowroot_error/)
 - [Java Time 保存到 MySQL DATETIME 時區問題](https://blog.idontwannarock.me/2023/12/java_time_mapping_mysql_datetime_timezone/)
 - [MySQL 8.0 使用 UTC_TIMESTAMP&lpar;&rpar; 當作 DATETIME 欄位預設值 bug](https://blog.idontwannarock.me/2023/10/mysql_8_utc_timestamp_as_datetime_default_bug/)
 - [Spring JPA Projection with Converter](https://blog.idontwannarock.me/2023/09/spring_jpa_projection_converter/)
 - [Scoop 介紹及用法](https://blog.idontwannarock.me/2023/06/scoop/)
-- [Gradle + Docker Multi-stage build](https://blog.idontwannarock.me/2022/12/gradle_docker_multi_stage_build/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
