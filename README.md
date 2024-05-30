@@ -1,11 +1,11 @@
 **Hi there, I'm Howard - aka idontwannarock** 👋
 
-**I'm a Husband, Son, and Developer!**
+**I'm a Husband, Father, Son, and Developer!**
 
 ---
 
 - 🌱 I’m currently learning everything
-- 🥅 2023 Goals: Contribute more to Open Source projects and try to complete Waterball Design Pattern curriculum.
+- 🥅 2024 Goals: Contribute more to Open Source projects and try to complete Waterball Design Pattern curriculum.
 
 ---
 
