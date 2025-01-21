@@ -9,12 +9,6 @@
 
 ---
 
-### Connect with me
-
-[<img align="left" alt="Howard Tech Blog" width="22px" src='./resources/rss.svg'/>][website][<img alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg"/>][twitter][<img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>][linkedin][<img alt="Instagram" width="22px" src="https://raw.githubusercontent.com/idontwannarock/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg"/>][instagram]
-
----
-
 ### Languages and Tools
 
 <img alt="Java" width="22px" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg'/><img alt="Javascript" width="22px" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg'/>
