@@ -57,8 +57,8 @@
 
 ➡️ [more videos...][youtube]
 
-[website]: https://blog.idontwannarock.me/
-[twitter]: https://twitter.com/CH_Howard_Wang
-[youtube]: https://www.youtube.com/idontwannarock
+[website]: https://blog.idontwannarock.dev/
+[twitter]: https://twitter.com/CH_Howard_Wang/
+[youtube]: https://www.youtube.com/idontwannarock/
 [instagram]: https://www.instagram.com/idontwannarock/
 [linkedin]: https://www.linkedin.com/in/cheng-hao-wang-a2298289/
