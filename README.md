@@ -11,35 +11,19 @@
 
 ### Connect with me
 
-[<img align="left" alt="Howard Tech Blog" width="22px" src='./resources/rss.svg'/>][website]
-[<img alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg"/>][twitter]
-[<img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>][linkedin]
-[<img alt="Instagram" width="22px" src="https://raw.githubusercontent.com/idontwannarock/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg"/>][instagram]
+[<img align="left" alt="Howard Tech Blog" width="22px" src='./resources/rss.svg'/>][website][<img alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg"/>][twitter][<img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>][linkedin][<img alt="Instagram" width="22px" src="https://raw.githubusercontent.com/idontwannarock/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg"/>][instagram]
 
 ---
 
 ### Languages and Tools
 
-<img align="left" alt="Java" width="22px" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg'/>
-<img alt="Javascript" width="22px" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg'/>
+<img alt="Java" width="22px" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg'/><img alt="Javascript" width="22px" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg'/>
 
-<img align="left" alt="PostgreSQL" width="22px" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg'/>
-<img alt="Oracle Database" width="22px" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg'/>
-<img alt="MySQL" width="22px" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg'/>
-<img alt="SQL Server" width="22px" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg'/>
-<img alt="MongoDB" width="22px" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg'/>
-<img alt="Elasticsearch" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" />
-<img alt="Redis" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
-<img alt="Kafka" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" />
+<img alt="PostgreSQL" width="22px" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg'/><img alt="Oracle Database" width="22px" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg'/><img alt="MySQL" width="22px" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg'/><img alt="SQL Server" width="22px" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg'/><img alt="MongoDB" width="22px" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg'/><img alt="Elasticsearch" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" /><img alt="Redis" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" /><img alt="Kafka" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" />
 
-<img align="left" alt="IntelliJ IDEA" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
-<img alt="Visual Studio Code" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img alt="Powershell" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
-<img alt="Vim" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />
+<img alt="IntelliJ IDEA" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" /><img alt="Visual Studio Code" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /><img alt="Powershell" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" /><img alt="Vim" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />
 
-<img align="left" alt="Git" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img alt="Docker" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-<img alt="Kubernetes" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
+<img alt="Git" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /><img alt="Docker" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /><img alt="Kubernetes" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
 
 ---
 
@@ -57,8 +41,7 @@
 
 ---
 
-![idontwannarock's GitHub stats](https://github-readme-stats-idontwannarock.vercel.app/api?username=idontwannarock&show_icons=true&hide_border=true&theme=radical#gh-dark-mode-only)
-![idontwannarock's GitHub stats](https://github-readme-stats-idontwannarock.vercel.app/api?username=idontwannarock&show_icons=true&theme=default#gh-light-mode-only)
+![idontwannarock's GitHub stats](https://github-readme-stats-idontwannarock.vercel.app/api?username=idontwannarock&show_icons=true&hide_border=true&theme=radical)
 
 ---
 
