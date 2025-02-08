@@ -24,11 +24,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [如何在 MySQL 中進行 insert if not exists](https://blog.idontwannarock.dev/2025/02/how_to_insert_if_not_exists_in_mysql/)
 - [Percona XtraDB Cluster MySQL with Docker Compose](https://blog.idontwannarock.dev/2024/10/pxc_mysql_docker_compose/)
 - [.gitattributes 引發的慘案](https://blog.idontwannarock.dev/2024/05/gitattributes_glowroot_error/)
 - [Java Time 保存到 MySQL DATETIME 時區問題](https://blog.idontwannarock.dev/2023/12/java_time_mapping_mysql_datetime_timezone/)
 - [MySQL 8.0 使用 UTC_TIMESTAMP&lpar;&rpar; 當作 DATETIME 欄位預設值 bug](https://blog.idontwannarock.dev/2023/10/mysql_8_utc_timestamp_as_datetime_default_bug/)
-- [Spring JPA Projection with Converter](https://blog.idontwannarock.dev/2023/09/spring_jpa_projection_converter/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
