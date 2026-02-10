@@ -5,7 +5,7 @@
 ---
 
 - 🌱 I’m currently learning everything
-- 🥅 2025 Goals: Spend more time with my family, contribute more to Open Source projects and try to complete Waterball Design Pattern curriculum.
+- 🥅 2026 Goals: Spend more time with my family and contribute more to open source projects.
 
 ---
 
@@ -52,7 +52,7 @@
 ➡️ [more videos...][youtube]
 
 [website]: https://blog.idontwannarock.dev/
-[twitter]: https://twitter.com/CH_Howard_Wang/
+[x]: https://x.com/CH_Howard_Wang/
 [youtube]: https://www.youtube.com/idontwannarock/
 [instagram]: https://www.instagram.com/idontwannarock/
 [linkedin]: https://www.linkedin.com/in/cheng-hao-wang-a2298289/
