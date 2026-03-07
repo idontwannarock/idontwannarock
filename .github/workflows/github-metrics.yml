@@ -17,10 +17,10 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: ${{ github.repository_owner }}
           template: classic
-          base: header, activity, community, repositories
+          base: ""
           plugin_languages: yes
           plugin_languages_ignored: html, css
           config_theme: dark
           config_animations: no
           output_action: commit
-          filename: github-metrics.svg
+          filename: github-langs.svg
