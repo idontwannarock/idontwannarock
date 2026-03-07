@@ -18,6 +18,8 @@ jobs:
           user: ${{ github.repository_owner }}
           template: classic
           base: header, activity, community, repositories
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
           config_theme: dark
           config_animations: no
           output_action: commit
