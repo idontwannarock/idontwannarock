@@ -2,22 +2,35 @@
 
 **I'm a Husband, Father, Son, and Developer!**
 
+[![Blog](https://img.shields.io/badge/Blog-idontwannarock.dev-blue?style=flat-square)](https://blog.idontwannarock.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/cheng-hao-wang-a2298289/)
+[![X](https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x)](https://x.com/CH_Howard_Wang/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/idontwannarock/)
+
 ---
 
-- 🌱 I’m currently learning everything
+- 🌱 I'm currently diving into system design and distributed systems
 - 🥅 2026 Goals: Spend more time with my family and contribute more to open source projects.
 
 ---
 
 ### Languages and Tools
 
-<img alt="Java" width="22px" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg'/><img alt="Javascript" width="22px" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg'/>
+**Languages**
 
-<img alt="PostgreSQL" width="22px" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg'/><img alt="Oracle Database" width="22px" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg'/><img alt="MySQL" width="22px" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg'/><img alt="SQL Server" width="22px" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg'/><img alt="MongoDB" width="22px" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg'/><img alt="Elasticsearch" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" /><img alt="Redis" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" /><img alt="Kafka" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" />
+<img alt="Java" width="22px" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg'/> <img alt="Javascript" width="22px" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg'/>
 
-<img alt="IntelliJ IDEA" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" /><img alt="Visual Studio Code" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /><img alt="Powershell" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" /><img alt="Vim" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />
+**Databases**
 
-<img alt="Git" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /><img alt="Docker" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /><img alt="Kubernetes" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
+<img alt="PostgreSQL" width="22px" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg'/> <img alt="Oracle Database" width="22px" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg'/> <img alt="MySQL" width="22px" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg'/> <img alt="SQL Server" width="22px" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg'/> <img alt="MongoDB" width="22px" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg'/> <img alt="Elasticsearch" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" /> <img alt="Redis" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" /> <img alt="Kafka" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" />
+
+**IDEs & Tools**
+
+<img alt="IntelliJ IDEA" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" /> <img alt="Visual Studio Code" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> <img alt="Powershell" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" /> <img alt="Vim" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />
+
+**DevOps**
+
+<img alt="Git" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> <img alt="Docker" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /> <img alt="Kubernetes" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
 
 ---
 
@@ -41,20 +54,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [20211005 tennis kata in Java #13](https://www.youtube.com/watch?v=E7xXLY1xPr8)
-- [20211005 tennis kata in Java #12](https://www.youtube.com/watch?v=YTSzTV3WV80)
-- [20211001 tennis kata in Java #11](https://www.youtube.com/watch?v=coBgZ0sF2tg)
-- [20210930 tennis kata in Java #10](https://www.youtube.com/watch?v=JidBE9dW68c)
-- [20210929 tennis kata in Java #9](https://www.youtube.com/watch?v=OnUkzW3Rjlo)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...][youtube]
-
 [website]: https://blog.idontwannarock.dev/
 [x]: https://x.com/CH_Howard_Wang/
-[youtube]: https://www.youtube.com/idontwannarock/
 [instagram]: https://www.instagram.com/idontwannarock/
 [linkedin]: https://www.linkedin.com/in/cheng-hao-wang-a2298289/
